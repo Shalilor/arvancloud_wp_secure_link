@@ -1,5 +1,5 @@
 # ArvanCloud secure linked video wordpress shortcode
-a wordpress shortcode to get/show secure links of videos hosted on arvancloud's video platform
+a wordpress shortcode to get/show secure linked videos hosted on arvancloud's video platform
 
 note: plugin uses user's ip address as parameter
 
